@@ -84,7 +84,7 @@ df['Cost per KG ($)'] = (
 
 **Why I created this:**
 Total freight cost alone is misleading.
-A $20,000 shipment sounds expensive —
+A $20,000 shipment sounds expensive
 but if it weighs 2000 KG, that's only $10/KG!
 Cost per KG allows fair comparison
 between shipments of all sizes.
@@ -157,7 +157,7 @@ This was my most surprising finding:
 Small shipment (72 KG) → $119.61 per KG 😱
 Bulk shipment (1847 KG) → $12.33 per KG ✅
 
-A 10x difference in cost per KG —
+A 10x difference in cost per KG
 not because of the carrier,
 but because of the shipment size!
 
@@ -199,7 +199,7 @@ more than speed.
 
 ### 4. Consolidate Small Shipments 💡
 The biggest cost saving opportunity
-is not about carriers at all —
+is not about carriers at all.
 it is about shipment size.
 
 **Recommendation:**
@@ -236,7 +236,7 @@ to reduce cost per KG by up to 90%.
 ## 🌱 What I Learned
 
 This project taught me that data cleaning
-is not just removing bad data —
+is not just removing bad data
 sometimes missing columns are opportunities
 to engineer something more meaningful.
 
@@ -254,6 +254,6 @@ I want to keep building toward.
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/ghouser-jahan-b0000a415
+- 💼 LinkedIn: 
 - 🐙 GitHub: github.com/Ghouser-99m
 - 📧 Email: ghghouser@gmail.com
