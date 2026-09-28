@@ -12,7 +12,7 @@
 
 When I first looked at this logistics dataset,
 I didn't just see rows and columns.
-I saw a business with a problem —
+I saw a business with a problem
 customers not receiving their orders on time,
 and nobody knowing exactly why.
 
@@ -242,7 +242,7 @@ to engineer something more meaningful.
 
 I also learned that the most valuable insight
 often is not in the obvious numbers.
-Everyone can see 32% late —
+Everyone can see 32% late
 but finding that weight drives cost
 more than carrier choice required
 actually exploring the data with curiosity.
