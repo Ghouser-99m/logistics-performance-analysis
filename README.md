@@ -254,6 +254,6 @@ I want to keep building toward.
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/ghouser-jahan-b0000a415/
 - 🐙 GitHub: github.com/Ghouser-99m
 - 📧 Email: ghghouser@gmail.com
